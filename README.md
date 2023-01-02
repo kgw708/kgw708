@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kgw708
+- 👋 Hi, I’m [@kgw708](https://github.com/kgw708).
 - 👀 I’m interested in backend.
 - 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on my friend.
+- 💞️ I’m looking to collaborate on my friends.
 - 📫 How to contact me please send me telepathy.
 
 <!---
