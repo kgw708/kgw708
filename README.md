@@ -2,7 +2,7 @@
 - 👀 I’m interested in backend.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on my friends.
-- 📫 How to contact me please send me telepathy.
+- 📫 How to contact me please send me a telepathy.🤣🤣🤣
 
 <!---
 kgw708/kgw708 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
